@@ -2,7 +2,7 @@
 
 This is an individual project to apply the seed filling algorithm to achieve object tracking.
 
-<p align="center"> <img src="./media/demo.gif" width="100%"> </p>
+<p align="center"> <img src="./media/demo.gif" width="50%"> </p>
 
 
 ### (1) Setup
